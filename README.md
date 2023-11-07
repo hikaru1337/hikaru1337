@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/hikaru1337/hika/main/image.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/hikaru1337/hikaru1337/blob/main/Vzc1mSiQz1ROHvEOFa2oYRF_Y5IjMmAKYztAxx6nMXVq2-JA882DeAEUyUhR22nY8dt4mhSx10EOruj7X1tzQ2su.jpg?raw=true" align="center" style="width: 100%" />
 </div>  
   
 
