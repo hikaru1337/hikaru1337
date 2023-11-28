@@ -11,7 +11,7 @@
 🌱 &nbsp;At the moment I have completely switched to Web development.\
 ⭐ &nbsp;Versatility in programming languages.\
 ⚜️ &nbsp;I take responsibility and initiative.\
-✉️ &nbsp;In my free time, I engage in learning English and graphic design.\
+✉️ &nbsp;In my free time, I engage in learning English and graphic design.
 
 ### 🛠 &nbsp;Tech Stack
 
